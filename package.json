@@ -1,0 +1,14 @@
+{
+  "name": "myfishapp",
+  "version": "1.0.0",
+  "description": "A fish market App ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donny Techiera",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^12.9.1"
+  }
+}

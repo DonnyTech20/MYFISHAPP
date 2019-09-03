@@ -1,0 +1,31 @@
+node_modules/.cache/babel-loader
+node_modules/
+jspm_packages/
+
+
+base.js 
+.base
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+.tgz
+
+# Runtime data
+pids
+.pid
+.seed
+.pid.lock
+
+*.zip
+.DS_Store
+.idea
+notes.md
+.gitkeep
+
+.netlify 
+state.json
